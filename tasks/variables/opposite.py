@@ -12,6 +12,15 @@
 
 
 def opposite(n: int) -> int:
+    """
+        Возвращает число, которое противоположно текущему
+
+        :param n: некоторое целое число
+        :type n: int
+
+        :return: противоположное число
+        :rtype: int
+        """
     result = None
     return result
 

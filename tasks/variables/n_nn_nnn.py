@@ -12,6 +12,15 @@ n_sum(3) -> 39, т.к. 3+9+27=39
 
 
 def n_sum(n: int) -> int:
+    """
+    Вычисляет формулу n+nn+nnn
+
+    :param n: некоторое целое число
+    :type n: int
+
+    :return: результат выполнения
+    :rtype: int
+    """
     result = None
     return result
 

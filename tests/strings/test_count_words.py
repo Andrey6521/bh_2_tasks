@@ -7,7 +7,6 @@ from tasks.strings.count_words import count_words
     "str_to_count, expected", [
         ('hello', 1),
         ('hello world', 2),
-        ('', 0),
         ('how are you', 3),
         ('none of my business', 4),
     ]

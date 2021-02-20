@@ -13,6 +13,18 @@ str_sum("34", "5") -> 39
 
 
 def str_sum(str1: str, str2: str) -> int:
+    """
+    Возвращает сумму чисел в двух строках
+
+    :param str1: первое число
+    :type str1: str
+
+    :param str2: второе число
+    :type str2: str
+
+    :return: сумму чисел из строк
+    :rtype: int
+    """
     result = None
     return result
 
